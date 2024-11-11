@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="Page-1" id="r8RvvHlVuaUErfJOei1R">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-3" value="Raw Material&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="18" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-4" value="Preparation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="18" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-5" value="Tire Components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="18" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-6" value="Tire Building &amp;amp; Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="18" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-7" value="Textile Industries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="58" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-8" value="Steel Industries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-9" value="Rubber Plantation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-11" value="Synthetic Rubber" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-12" value="Chemical Industries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-13" value="Fabric Manufacture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="58" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-14" value="Belt Carcass Wire Bead&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Synthetic%20Rubber%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2255%22%20y%3D%22220%22%20width%3D%22120%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-15" value="Banbury Mixer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-16" value="Calender:&lt;div&gt;Wire Calender&lt;/div&gt;&lt;div&gt;Fabric Calender&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="55" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-17" value="Extruders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-18" value="Cutter:&lt;div&gt;Wire Treatment Cutter&lt;/div&gt;&lt;div&gt;Fabric bias Cutter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-20" value="Visual Inspection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="122" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-21" value="FVM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="157" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-22" value="DBM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="192" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-23" value="Xray" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="232" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-24" value="Bead Construction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-25" value="Tire Building Machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="58" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-26" value="Finished Tire" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-27" value="MEC:&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;MASDA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;AutoRelease&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;CMS&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;MES&lt;span style=&quot;background-color: initial; white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-28" value="SBS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="18" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-30" value="Curing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-31" value="USC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="88" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-32" value="RFBC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="48" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-33" value="Leevl 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTvsF0ivF44rcAWUIl6B-34" value="Level 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
